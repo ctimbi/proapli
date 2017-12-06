@@ -6,6 +6,8 @@ public class Objeto {
 		// TODO Auto-generated method stub
 
 		System.out.println("ctimbi 2 ");
+
+		System.out.println("hola mundo");
 	}
 
 }
